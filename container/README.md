@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
+## Steps:
+1. Run `ng new container`. Navigate to container directory.
+2. Run `npm install --save-dev @angular-architects/module-federation@14`.
+3. Run `ng add @angular-architects/module-federation`, Enter project name and port no when prompted. This will create and update few files check this [commit](https://github.com/coder-rupesh-ui/micro-frontend-angular/commit/b2ad9bae9211f20e109cd2fea317e76e710db8c2)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
